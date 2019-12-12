@@ -1,1 +1,2 @@
-# inblog.github.io
+# 搭建静态博客
+inblog.github.io
